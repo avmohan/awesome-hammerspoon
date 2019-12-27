@@ -10,6 +10,7 @@ hspoon_list = {
 
 hsapp_list = {
   {key = "a", name = "Google Chrome"},
+  {key = "s", name = "Spotify"},
   {key = "w", name = "Slack"},
   {key = "p", name = "Whatsapp"},
   {key = "n", name = "Notes"},
