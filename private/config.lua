@@ -11,13 +11,13 @@ hspoon_list = {
 hsapp_list = {
   {key = "a", name = "Google Chrome"},
   {key = "s", name = "Spotify"},
+  {key = "n", name = "Notes"},
+  {key = "i", name = "/Users/avmohan/Applications/JetBrains Toolbox/IntelliJ IDEA Community.app"},
   {key = "w", name = "Slack"},
   {key = "p", name = "Whatsapp"},
-  {key = "n", name = "Notes"},
-  {key = "i", name = "IntelliJ IDEA CE"},
   {key = "c", name = "Visual Studio Code"},
   {key = "t", name = "Todoist"},
-  {key = "v", name = "VLC"},
+--  {key = "v", name = "VLC"},
   {key = "r", name = "Robo 3T"},
   {key = "z", name = "Zoom.us"},
   {key = "m", id = "com.apple.ActivityMonitor"},
@@ -26,5 +26,4 @@ hsapp_list = {
 
 -- Disable alt-L lock
 hslock_keys = {"", ""}
-
 
